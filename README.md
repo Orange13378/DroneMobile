@@ -10,4 +10,5 @@
 ![image](https://user-images.githubusercontent.com/51047366/186431259-ad463c6f-b894-4bdd-addf-fd031a856d8a.png)
 
 Все графические элементы были нарисованы студентом Московского Политеха Шевченко Никитой.
+
 Так же игра выпущена на GooglePlay  -  https://play.google.com/store/apps/details?id=com.DroneStudio.Drone
